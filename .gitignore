@@ -28,3 +28,5 @@ build/
 # Editor backup files
 *~
 *.swp
+.cursorignore
+test.py
